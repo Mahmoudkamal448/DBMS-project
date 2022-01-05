@@ -1,2 +1,2 @@
 # DBMS-project
-# please run main.sh script 
+# please run ./main.sh script 
