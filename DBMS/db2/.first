@@ -1,0 +1,3 @@
+Field|Type|key
+name|str|PK
+salary|int|
